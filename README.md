@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">A passionate front-end developer from Mongolia</h3>
 
 <img alt="Coding" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 
 - 🌱 I’m currently learning **php**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Whatever you want**
 
 - 📫 How to reach me **tuvshe2007@gmail.com**
 
