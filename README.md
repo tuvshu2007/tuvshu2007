@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Whatever you want**
 
+- 💬 But don't ask me about **Myself**
+
 - 📫 How to reach me **tuvshe2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
