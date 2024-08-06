@@ -1,7 +1,6 @@
 <h1 align="center">Hello My name is Peter👋</h1>
 <h3 align="center">A passionate front-end developer from Mongolia</h3>
 
-<img alt="Coding" src="https://www.kindpng.com/imgv/hhibohm_coding-isometric-illustration-hd-png-download/#google_vignette"/>
 
 - 🌱 I’m currently learning **php**
 
